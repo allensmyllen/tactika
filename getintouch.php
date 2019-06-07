@@ -1,30 +1,126 @@
-<?php require_once("footer.php");?>
-	<!--/contact-->
-	<section class="contact py-5">
+<?php require_once("header2.php");?>
+	<!-- about -->
+	<section class="welcome py-5">
 		<div class="container py-md-4 mt-md-3">
-			<h2 class="heading-agileinfo">Contact Us<span>Speed Up The Loan Process</span></h2>
+			<h2 class="heading-agileinfo">About Us <span>Speed Up the Loan Process</span></h2>
 			<span class="w3-line black"></span>
-			<div class="inner-sec-w3layouts-agileinfo mt-md-5 pt-5">
-				<div class="contact-map">
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d273690.1704056744!2d-74.59673804968976!3d40.72070782081099!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2sNew+York%2C+NY%2C+USA!5e0!3m2!1sen!2sin!4v1521532554788" class="map" style="border:0" allowfullscreen=""></iframe>
+			<div class="row about-tp mt-md-5 pt-5">
+				<div class="col-lg-6 welcome-left">
+					<h3>Welcome</h3>
+					<h4>We are committed to offering travel services of the highest quality, combining our energy and enthusiasm, with our years
+						of experience. Our greatest satisfaction comes in serving large numbers of satisfied clients who have experienced the
+						joys and inspiration of travel.</h4>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit
+						libero aliquam. Fusce semper augue ac dolor efficitur, a pretium metus pellentesque.</p>
 				</div>
-				
-				<div class="contact_grid_right mt-5">
-					<h6>Please fill this form to contact with us.</h6>
-					<form action="#" method="post">
-						<div class="contact_left_grid">
-							<input type="text" name="Name" placeholder="Name" required="">
-							<input type="email" name="Email" placeholder="Email" required="">
-							<input type="text" name="Subject" placeholder="Subject" required="">
-							<textarea name="Message" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Message...';}" required="">Message...</textarea>
-							<input type="submit" value="Submit">
-							<input type="reset" value="Clear">
-							<div class="clearfix"> </div>
-						</div>
-					</form>
+				<div class="col-lg-6 welcome-right">
+					<div class="welcome-right-top">
+						<img src="images/g1.jpg" alt="" class="img-fluid">
+					</div>
 				</div>
 			</div>
 		</div>
 	</section>
-	<!--//contact-->
-	<?php require_once("footer.php");?>
+	<!-- //about -->
+	<!-- w3layouts_bottom -->
+<section class="w3layouts_bottom">
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-9 w3layouts_getin_info">
+				<h3>Don’t Miss Your Perfect House!</h3>
+			</div>
+			<div class="col-lg-3 w3layouts_getin">
+				<a href="contact.html">Contact Us</a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- //w3layouts_bottom -->
+
+	<!-- about-team -->
+	<section class="team py-5">
+		<div class="container py-md-4 mt-md-3">
+			<h3 class="heading-agileinfo">Our Team <span>Speed Up the Loan Process</span></h3>
+			<span class="w3-line black"></span>
+			<div class="row team-row-agileinfo mt-md-5 pt-5">
+				<div class="col-lg-3 col-md-6 col-sm-6 team-grids">
+					<div class="thumbnail team-agileits">
+						<img src="images/te1.jpg" class="img-fluid" alt="" />
+						<div class="effectd-caption">
+							<h4 class="mb-3">Vaura Tegsner</h4>
+							<div class="social-lsicon">
+								<a href="#" class="social-button twitter">
+									<span class="fab fa-twitter"></span>
+								</a>
+								<a href="#" class="social-button facebook">
+									<span class="fab fa-facebook-f"></span>
+								</a>
+								<a href="#" class="social-button google">
+									<span class="fab fa-google-plus-g"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 team-grids">
+					<div class="thumbnail team-agileits">
+						<img src="images/te2.jpg" class="img-fluid" alt="" />
+						<div class="effectd-caption">
+							<h4 class="mb-3">Jessika John</h4>
+							<div class="social-lsicon">
+								<a href="#" class="social-button twitter">
+									<span class="fab fa-twitter"></span>
+								</a>
+								<a href="#" class="social-button facebook">
+									<span class="fab fa-facebook-f"></span>
+								</a>
+								<a href="#" class="social-button google">
+									<span class="fab fa-google-plus-g"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 team-grids">
+					<div class="thumbnail team-agileits">
+						<img src="images/te3.jpg" class="img-fluid" alt="" />
+						<div class="effectd-caption">
+							<h4 class="mb-3">Chunk Erson</h4>
+							<div class="social-lsicon">
+								<a href="#" class="social-button twitter">
+									<span class="fab fa-twitter"></span>
+								</a>
+								<a href="#" class="social-button facebook">
+									<span class="fab fa-facebook-f"></span>
+								</a>
+								<a href="#" class="social-button google">
+									<span class="fab fa-google-plus-g"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-6 col-sm-6 team-grids">
+					<div class="thumbnail team-agileits">
+						<img src="images/te4.jpg" class="img-fluid" alt="" />
+						<div class="effectd-caption">
+							<h4 class="mb-3">Goes Marry</h4>
+							<div class="social-lsicon">
+								<a href="#" class="social-button twitter">
+									<span class="fab fa-twitter"></span>
+								</a>
+								<a href="#" class="social-button facebook">
+									<span class="fab fa-facebook-f"></span>
+								</a>
+								<a href="#" class="social-button google">
+									<span class="fab fa-google-plus-g"></span>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- //about-team -->
+<?php require_once("footer.php");?>

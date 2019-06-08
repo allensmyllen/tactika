@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="zxx">
+<html lang="en">
 
 <head>
 	<title>Tactika Quick Loan </title>
@@ -32,7 +32,7 @@
 </head>
 <style>
 	.in {
-    background: url(../images/g1.jpg)no-repeat cover !important;
+	background-image: url('./images/in.jpg');
     height: 18vw;
 }
 
@@ -99,8 +99,9 @@
 	<!-- //header -->
 	<!-- //header -->
     	<!-- banner -->
-	<section class="in">
-	</section>
+	<div class="in" style ='backfr'>
+		
+	</div>
 	<!-- //banner -->
 
 

@@ -86,7 +86,7 @@
 				</ul>
 			</div>
 			<div class="copyrightbottom">
-				<p>© 2019 WFY Financial Solutions Limited .| Design by
+				<p>© 2019 Tactika .| Designed by
 					<a href="http://mixedfraction.com/">MixedFraction</a>
 				</p>
 			</div>

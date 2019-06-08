@@ -1,4 +1,4 @@
-<?php require_once("header.php");?>
+<?php require_once("header2.php");?>
 	<!--gallery-->
 	<section class="gallery py-5">
 		<div class="container py-md-4 mt-md-3">
@@ -71,3 +71,4 @@
 </section>
 <!--//gallery-->
 <?php require_once("footer.php");?>
+

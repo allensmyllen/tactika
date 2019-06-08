@@ -20,7 +20,7 @@
 	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 	<link href="css/style.css" rel='stylesheet' type='text/css' />
 	<!-- pop up box -->
-	<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" />
+	<!-- <link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all" /> -->
 	<!-- font-awesome icons -->
 	<link href="css/fontawesome-all.min.css" rel="stylesheet">
 	<!-- //Custom Theme files -->
@@ -30,6 +30,13 @@
 	<!-- body -->
 	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
 </head>
+<style>
+	.in {
+    background: url(../images/g1.jpg)no-repeat cover !important;
+    height: 18vw;
+}
+
+</style>
 
 <body>
 	
@@ -92,7 +99,7 @@
 	<!-- //header -->
 	<!-- //header -->
     	<!-- banner -->
-	<section class="banner-1">
+	<section class="in">
 	</section>
 	<!-- //banner -->
 

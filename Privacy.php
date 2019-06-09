@@ -1,584 +1,71 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
-<html lang="zxx">
+<?php require_once("header2.php");?>
 
-<head>
-	<title>Home Loan a Banking Category Flat Bootstrap Responsive Website Template | Typography :: w3layouts</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<meta name="keywords" content="Home Loan Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-	<script>
-		addEventListener("load", function () {
-			setTimeout(hideURLbar, 0);
-		}, false);
+<div class="container">
+<div class="col-md-12">
+<div class = "row">
 
-		function hideURLbar() {
-			window.scrollTo(0, 1);
-		}
-	</script>
-
-	<!-- Bootstrap Core CSS -->
-	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-	<link href="css/style.css" rel='stylesheet' type='text/css' />
-	<!-- font-awesome icons -->
-	<link href="css/fontawesome-all.min.css" rel="stylesheet">
-	<!-- //Custom Theme files -->
-	<!-- online fonts -->
-	<!-- titles -->
-	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
-	<!-- body -->
-	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
-</head>
-
-<body>
+<h3>Privacy Policy </h3>
+<p align="center">Our privacy policy Welcome to We Finance You (WFY) Financial Solutions Limited, the trademark owner o`\f Tactika an innovative lending and investment services provider. We have described our Privacy Policy as clearly as possible in the summary below. This Policy applies to all existing and former customers and may change from time to time.<br><br>
 	
-	<!-- header -->
-	<header>
-	<div class="top">
-			<div class="container">
-				<div class="t-op row">
-					<div class="col-sm-6 top-middle">
-						<ul>
-							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-							<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-						</ul>
-					</div>
-					<div class="col-sm-6 top-left">
-						<ul>
-							<li><i class="fas fa-phone"></i> +021 365 777</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-light">
-				<h1>
-					<a class="navbar-brand text-capitalize" href="index.html">
-						Home Loan
-					</a>
-				</h1>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-				    aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
+Your consent By submitting your details and/or using our service you accept this Privacy Policy and expressly provide voluntary, specific and informed consent to the use and disclosure of your personal information in the manner described below. You have the right to object to our use of your personal information. Depending on the information you object to, we may not be able to proceed with your loan application/s as certain information is required for the conclusion or performance of this contract and we are obliged by law to obtain same.<br><br>
 
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav text-center  ml-lg-auto">
-						<li class="nav-item mr-3">
-							<a class="nav-link" href="index.html">Home
-								<span class="sr-only">(current)</span>
-							</a>
-						</li>
-						<li class="nav-item  mr-3">
-							<a class="nav-link" href="about.html">About</a>
-						</li>
-						<li class="nav-item  mr-3">
-							<a class="nav-link" href="services.html">Services</a>
-						</li>
-						<li class="nav-item dropdown active mr-3">
-							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
-							    aria-expanded="false">
-								Dropdown
-							</a>
-							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="typography.html">Typography</a>
-								<a class="dropdown-item" href="gallery.html">Gallery</a>
-							</div>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="contact.html">contact</a>
-						</li>
-					</ul>
-				</div>
-			</nav>
-		</div>
-	</header>
-	<!-- //header -->
-	<!-- banner -->
-	<section class="banner-1">
-	</section>
-	<!-- //banner -->
-		<!-- typography -->
-	<section class="typo py-5">
-		<div class="container py-md-4 mt-md-3">
-		<h2 class="heading-agileinfo">Typography<span>Speed Up The Loan Process</span></h2>
-			<span class="w3-line black"></span>
-			<div class="grid_3 grid_4 w3layouts mt-md-5 pt-5">
-				<h3 class="hdg">Headings</h3>
-				<div class="bs-example">
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><h1 id="h1.-bootstrap-heading">h1. Bootstrap heading<a class="anchorjs-link" href="#h1.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h1></td>
-								<td class="type-info">Semibold 36px</td>
-							</tr>
-							<tr>
-								<td><h2 id="h2.-bootstrap-heading">h2. Bootstrap heading<a class="anchorjs-link" href="#h2.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h2></td>
-								<td class="type-info">Semibold 30px</td>
-							</tr>
-							<tr>
-								<td><h3 id="h3.-bootstrap-heading">h3. Bootstrap heading<a class="anchorjs-link" href="#h3.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h3></td>
-								<td class="type-info">Semibold 24px</td>
-							</tr>
-							<tr>
-								<td><h4 id="h4.-bootstrap-heading">h4. Bootstrap heading<a class="anchorjs-link" href="#h4.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h4></td>
-								<td class="type-info">Semibold 18px</td>
-							</tr>
-							<tr>
-								<td><h5 id="h5.-bootstrap-heading">h5. Bootstrap heading<a class="anchorjs-link" href="#h5.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h5></td>
-								<td class="type-info">Semibold 14px</td>
-							</tr>
-							<tr>
-								<td><h6>h6. Bootstrap heading</h6></td>
-								<td class="type-info">Semibold 12px</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		
-			<div class="grid_3 grid_5 w3l">
-				<h3>Progress Bars</h3>
-				<div class="tab-content">
-					<div class="tab-pane active" id="domprogress">
-						<div class="progress">    
-							<div class="progress-bar progress-bar-primary" style="width: 20%"></div>
-						</div>
-						<p>Info with <code>progress-bar-info</code> class.</p>
-						<div class="progress">    
-							<div class="progress-bar progress-bar-info" style="width: 60%"></div>
-						</div>
-						<p>Success with <code>progress-bar-success</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-success" style="width: 30%"></div>
-						</div>
-						<p>Warning with <code>progress-bar-warning</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-warning" style="width: 70%"></div>
-						</div>
-						<p>Danger with <code>progress-bar-danger</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-danger" style="width: 50%"></div>
-						</div>
-						<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-inverse" style="width: 40%"></div>
-						</div>
-						<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-success" style="width: 35%"><span class="sr-only">35% Complete (success)</span></div>
-							<div class="progress-bar progress-bar-warning" style="width: 20%"><span class="sr-only">20% Complete (warning)</span></div>
-							<div class="progress-bar progress-bar-danger" style="width: 10%"><span class="sr-only">10% Complete (danger)</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="grid_3 grid_5 w3ls">
-				<h3>Alerts</h3>
-				<div class="alert alert-success" role="alert">
-				  <strong>Well done!</strong> You successfully read this important alert message.
-				</div>
-				<div class="alert alert-info" role="alert">
-				  <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
-				</div>
-				<div class="alert alert-warning" role="alert">
-				  <strong>Warning!</strong> Better check yourself, you're not looking too good.
-				</div>
-				<div class="alert alert-danger" role="alert">
-				  <strong>Oh snap!</strong> Change a few things up and try submitting again.
-				</div>
-			</div>
-			<div class="grid_3 grid_5 agileinfo">
-				<h3>Breadcrumbs</h3>
-				<ol class="breadcrumb">
-					  <li class="breadcrumb-item active">Home</li>
-					</ol>
-					<ol class="breadcrumb">
-					  <li class="breadcrumb-item"><a href="#">Home</a></li>
-					  <li class="breadcrumb-item active">Library</li>
-					</ol>
-					<ol class="breadcrumb">
-					  <li class="breadcrumb-item"><a href="#">Home</a></li>
-					  <li class="breadcrumb-item"><a href="#">Library</a></li>
-					  <li class="breadcrumb-item active">Data</li>
-					</ol>
-			</div>
-			<div class="grid_3 grid_5 wthree">
-				<h3>Buttons</h3>
-				<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-				<button type="button" class="btn btn-primary">Primary</button>
+Security and Confidentiality We understand the value of your personal information and therefore will take all reasonable steps to protect your personal information from loss, misuse or unauthorized alteration. Your personal information is stored in databases that have built-in safeguards and firewalls to ensure the privacy and confidentiality of that information.<br><br>
 
-				<!-- Secondary, outline button -->
-				<button type="button" class="btn btn-secondary">Secondary</button>
+Our security systems meet or exceed industry standards and we are constantly monitoring internet developments to ensure our systems evolve as required. We also test our systems regularly to make sure our security mechanisms are up to date.<br><br>
 
-				<!-- Indicates a successful or positive action -->
-				<button type="button" class="btn btn-success">Success</button>
+Personal Information
+Personal information is information that identifies or relates specifically to you including your financial information, for example, your name, age and identity number, your assets and liabilities, your income and your payment records. In short, any information that we know about you will be regarded as your personal information.
+<br><br>
+Collecting your data
+We collect information about you in two ways - directly from your online application and also from outside sources such as credit bureau and customer service providers. We may use data that identifies your personal information for a number of things including: statistical analysis; to develop and improve our products; to assess lending risks; to update your records; to identify which of our products, or our partners' products which might interest you; to identify and prevent fraud, money laundering and other criminal activities; to carry out regulatory checks, keeping you informed about your loan, and for market research; and in the products and services which we offer on behalf of third parties.
+<br><br>
+Collection and Use of Personal Information
+In order to make use of this loan product and electronic service offered by WFY Financials as successful as possible, it is necessary for us to find out exactly what you need and want from us and to ascertain whether you are eligible to get a loan. The following are some of the reasons why we would collect your personal information:
 
-				<!-- Contextual button for informational alert messages -->
-				<button type="button" class="btn btn-info">Info</button>
+●	to identify you;
+●	in order for us to process your instructions or requests;
+●	in order for us to ensure that you meet our lending criteria, we may collect and analyze your personal information and combine all the information that we have about you to compile a credit profile of you in order for us to grant you a loan and to meet your specific needs;
+●	once we have collected and analyzed your personal information, we may send you promotional material or details which we think may be of interest to you but will only do so with your permission. If any of this promotional information relates to products, promotions, news or services of a third party, and if you indicate that you would like more details, we may inform the third party to contact you directly. We will however, only inform third parties to contact you directly if you have indicated that this is agreeable to you.
+<br><br>
+In addition, we utilize your personal information for the other purposes set out in this Privacy Policy.
 
-				<!-- Indicates caution should be taken with this action -->
-				<button type="button" class="btn btn-warning">Warning</button>
+Additional data collection
+In addition to the personal information you submit, we may collect information about your computer including, where available, your IP address, operating system and browser type - for system administration and to report aggregate information to our advertising partners which allow Us to have a better understanding of Our customer requirements and/or preferences by using cookies to track users as they travel from website to website recording what commercial advertisements they view and select while browsing.<br><br>
 
-				<!-- Indicates a dangerous or potentially negative action -->
-				<button type="button" class="btn btn-danger">Danger</button>
+This is statistical data about browsing actions and patterns and does not identify any individual. We may also obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies enable us to improve our service to you, estimate our audience size and usage patterns, store information about your preferences and recognise you when you return to our site.
+<br><br>
+You can set your web browser to refuse cookies, but if you do this you may not be able to enjoy full use of the site and you may not be able to take advantage of certain promotions we may run from time to time. Please note that third parties who advertise on our site may also use cookies, but we do not have access to, or control over them and therefore cannot take responsibility for them. All advertisers are bound by contract to maintain the confidentiality and security of your personal information and are restricted in their use thereof as per this Privacy Policy.
+<br><br>
 
-				<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
-				<button type="button" class="btn btn-link">Link</button>
-			   
-			</div>			
-			<div class="grid_3 grid_5 agile">
-				<h3>Wells</h3>
-				<div class="well">
-					There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-				</div>
-				<div class="well">
-					It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here
-				</div>
-				<div class="well">
-						Lorem Ipsum is simply dummy text of the printing and typesetting Automated. Lorem Ipsum has been the Automated's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-				</div>
-			</div>
-			<h3 class="bars">Unordered List</h3>
-			<ul class="list-group w3-agile">
-			  <li class="list-group-item">Cras justo odio</li>
-			  <li class="list-group-item">Dapibus ac facilisis in</li>
-			  <li class="list-group-item">Morbi leo risus</li>
-			  <li class="list-group-item">Porta ac consectetur ac</li>
-			  <li class="list-group-item">Vestibulum at eros</li>
-			</ul>
-			<h3 class="bars">Ordered List</h3>
-			<ol>
-				<li class="list-group-item1">Cras justo odio</li>
-				<li class="list-group-item1">Dapibus ac facilisis in</li>
-				<li class="list-group-item1">Morbi leo risus</li>
-				<li class="list-group-item1">Porta ac consectetur ac</li>
-				<li class="list-group-item1">Vestibulum at eros</li>
-			</ol>
-		
-			<div class="page-header">
-				<h3 class="bars">Tables</h3>
-			</div>
-			<h2 class="typoh2">Default styles</h2>
-			<p>For basic stylinglight padding and only horizontal add the base class <code>.table</code> to any <code>&lt;table&gt;</code>.</p>
-			<div class="bs-docs-example">
-				<table class="table">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>Larry</td>
-							<td>the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<hr class="bs-docs-separator">
-			<p>Add any of the following classes to the <code>.table</code> base class.</p>
-			<p>Adds zebra-striping to any table row within the <code>&lt;tbody&gt;</code> via the <code>:nth-child</code> CSS selector (not available in IE7-8).</p>
-			<div class="bs-docs-example">
-				<table class="table table-striped">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>Larry</td>
-							<td>the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<p>Add borders and rounded corners to the table.</p>
-			<div class="bs-docs-example">
-				<table class="table table-bordered">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td rowspan="2">1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@getbootstrap</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td colspan="2">Larry the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<p>Enable a hover state on table rows within a <code>&lt;tbody&gt;</code>.</p>
-			<div class="bs-docs-example">
-				<table class="table table-hover">
-					<thead>
-						<tr>
-						  <th>#</th>
-						  <th>First Name</th>
-						  <th>Last Name</th>
-						  <th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-						  <td>1</td>
-						  <td>Mark</td>
-						  <td>Otto</td>
-						  <td>@mdo</td>
-						</tr>
-						<tr>
-						  <td>2</td>
-						  <td>Jacob</td>
-						  <td>Thornton</td>
-						  <td>@fat</td>
-						</tr>
-						<tr>
-						  <td>3</td>
-						  <td colspan="2">Larry the Bird</td>
-						  <td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>
-	</section>
-	<!-- //typography -->
+We want to provide you with the best possible service, so calls to WFY Financials will be recorded and/or monitored for quality checks and staff training. Recordings may also be used to help us combat fraud.
+“PIN”
 
-<!--footer-->
-	<footer>
-		<div class="container py-md-4 mt-md-3">
-			<div class="row footer-top-w3layouts-agile py-5">
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>About Us</h3>
-					</div>
-					<div class="footer-text">
-						<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed, convallis at tellus..</p>
+When you use the WFY Financials Website and the services provided by us, you may be given an access number, user name, password and/or Personal Identification Number (PIN). You are responsible for maintaining the secrecy and confidentiality of your user name, access card, password and/or personal identification number (“PIN”).<br><br>
 
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Contact Us</h3>
-					</div>
-					<div class="footer-office-hour">
-						<ul>
-							<li class="hd">Address :</li>
-							<li>No.27 - 5549436 street lorem, Newyork City, USA</li>
+Sharing your data for service provision
 
-						</ul>
-						<ul>
-							<li class="hd">Phone:+ 1 (234) 567 8901</li>
-							<li class="hd">Email:
-								<a href="mailto:info@example.com">info@example.com</a>
-							</li>
-							<li class="hd">Fax: 1(234) 567 8901</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Recent Posts</h3>
-					</div>
-					<div class="footer-list">
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g1.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g2.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g3.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g4.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g5.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g6.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g7.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g9.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g8.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Subscribe</h3>
-					</div>
-					<p>Vivamus magna justo, lacinia eget consectetur sed.</p>
-					<form action="#" method="post" class="newsletter">
-						<input class="email" type="email" placeholder="Your email..." required="">
-						<button class="btn1">
-							<i class="far fa-envelope"></i>
-						</button>
-					</form>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!---->
-	<div class="copyright py-3">
-		<div class="container">
-			<div class="copyrighttop">
-				<ul>
-					<li>
-						<h4>Follow us on:</h4>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-facebook-f"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-twitter"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-google-plus-g"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-pinterest-p"></i>
-						</a>
-					</li>
-				</ul>
-			</div>
-			<div class="copyrightbottom">
-				<p>© 2018 Home Loan. All Rights Reserved | Design by
-					<a href="http://w3layouts.com/">W3layouts</a>
-				</p>
-			</div>
-			<div class="clearfix"></div>
-		</div>
-	</div>
-	<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Home Loan</h4>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-		 <div class="agileits-w3layouts-info">
-			<img src="images/g6.jpg" class="img-fluid" alt="" />
-			<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
-		</div>
-	</div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- //Modal -->
-<!-- js-->
-	<script src="js/jquery-2.2.3.min.js"></script>
-<!-- js-->
-	<!-- Bootstrap Core JavaScript -->
-	<script src="js/bootstrap.js ">
-	</script>
-	<!-- //Bootstrap Core JavaScript -->
-</body>
-</html>
+We share the data you submit with third parties involved in the process of providing the services you request, such as lenders, credit bureaus, customer service providers and collection agencies. We have trusted relationships with these carefully selected third parties who perform services on our behalf. All service providers are bound by contract to maintain the confidentiality and security of your personal information and are restricted in their use thereof as per this Privacy Policy. The service provider is required to notify us immediately where there are grounds to believe your personal information has been accessed or acquired by any unauthorized person.
+<br><br>
+Right to request access to your personal information
+
+As aforementioned, we are committed to the protection of your personal information and any information disclosed to third parties is only done so with our knowledge and express authorization. You are entitled to request access to your information at a prescribed fee and to request that inaccurate, irrelevant, excessive, outdated, misleading or unlawfully obtained information be corrected, deleted or in the case of a dispute, indicate that a correction has been requested, but not made.
+<br><br>
+
+Third party links
+
+Our site may contain links to third party websites. If you follow a link to any of these websites, please note that these websites have their own terms and privacy policies and that we do not accept any responsibility or liability for them. By registering at WFY Financials you may receive follow-up contact and offers from third party companies as you have agreed to do by accepting this Privacy Policy and, while we only work with selected partners, we are not responsible for the services or representations of third parties. Because we are not responsible for any representations or information or warranties or content on any website of any third party (including websites linked to this website or websites facilitated by us), we do not exercise control over third parties' privacy policies and you should refer to the privacy policy of any such third party to see how such party protects your privacy.
+<br><br>
+Changes to this Privacy Policy
+
+We reserve the right, in our sole discretion to update, modify or amend (including without limitation, by the addition of new terms and conditions) this Privacy Policy from time to time with or without notice. You therefore agree to review the Privacy Policy whenever you visit the WFY Financials Website for any such change. Save as expressly provided to the contrary in this Privacy Policy, the amended version of the Privacy Policy shall supersede and replace all previous versions thereof.
+<br><br>
+Which laws apply?
+
+This Privacy Policy will be governed by and construed and interpreted in accordance with the laws of the Federal Republic of Nigeria.
+<br><br>
+
+Who to Contact?
+
+Should you have any queries, please contact Us, WFY Financials, on 08069766133 or customer@tactika.com
+ </p></div></div></div>
+<?php require_once("footer.php");?>

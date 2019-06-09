@@ -85,9 +85,6 @@
 						<li class="nav-item  mr-3">
 							<a class="nav-link" href="investment.php">Investment</a>
 						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="getintouch.php">Get In Touch</a>
-						</li>
 							<li class="nav-item">
 									<a class="nav-link" href="login.php">Login</a>
 								</li>

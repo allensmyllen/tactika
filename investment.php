@@ -7,8 +7,7 @@
 					<h3>NVEST YOUR MONEY TODAY AND EARN SOLID RETURNS ON INVESTMENT</h3>
 					<h4>If you have some extra money that you won't need for a while, give it to Tactika as an investment watch it yield more 
 					than what the money market will give to you</h4>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse porta erat sit amet eros sagittis, quis hendrerit
-						libero aliquam. Fusce semper augue ac dolor efficitur, a pretium metus pellentesque.</p>
+	
 				</div>
 				<div class="col-lg-6 welcome-right">
 					<div class="welcome-right-top">

@@ -13,9 +13,9 @@
     <style> 
     .cta {
         background: green;
-        padding: 10px 30px;
-        margin: 10% 30%;
-        border-radius: 1;
+        padding: 10px 30px; 
+        margin: 10% 30px;
+        border-radius: 1; 
         opacity: 0.9;
 .hide{
     visibility: hidden;
@@ -23,17 +23,20 @@
     }.cta a{
         color: white;
     }
-    .cta:hover{
+    /* .cta:hover{
         border-radius: 8px;
         transition: 0.5s;
         padding: 11px 32px;
         opacity: 0.5;
-    }
+    } */
     .cta a:hover{
-        text-decoration: none;
+        /* text-decoration: none; */
         /* color: green; */
-        opacity: 1;
+        /* opacity: 1; */
 
+    }
+    .loan-calculator{
+        padding-top: 50px;
     }
     </style>
 </head>
@@ -46,7 +49,7 @@
             <div class="row  text-center">
                 <div class="col-md-10 col-md-offset-1">
                     <h2 class="section-heading">Loan Calculator</h2>
-                    <p class="text-muted">Calculate the Live Interest Rates of your loan amount <br> Simply select the amount you want to borrow along with the number of months you want intend to payback</p>
+                    <p class="text-muted">Calculate the Live Interest Rates of your loan amount Simply select the amount you want to borrow along with the number of months you want intend to payback</p>
                     <hr>
                 </div>
             </div>
@@ -95,9 +98,9 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 w3layouts_getin ">
+            <!-- <div class="col-lg-3 w3layouts_getin "> -->
 				<button class =' btn cta'> <a href="login.php">Apply Now</a></button>
-			</div>
+			<!-- </div> -->
         </div>
         
     </section>

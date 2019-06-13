@@ -1,0 +1,130 @@
+/* html,
+body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+} */
+
+
+/*** Section EMI Calculator ***/
+
+section.loan-calculator{
+ background: white;
+}
+
+section.loan-calculator h2.section-heading {
+  color: #3c4d6b;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+section.loan-calculator hr{
+  border-color: rgba(31, 154, 51, 0.9);
+  margin-bottom: 50px;
+}
+
+section.loan-calculator p.text-muted{
+  margin-bottom: 0;
+  padding: 0 80px;
+}
+
+.single-loan-slider:last-child {
+  margin-bottom: 0;
+}
+
+.single-loan-slider h4 {
+  font-size: 20px;
+  color: #232323;
+  font-weight: 600;
+}
+
+.single-loan-slider h5{
+  font-size: 17px
+}
+
+.mm-amount{
+  font-size: 13px;
+  font-weight: 500;
+}
+
+.single-loan-slider {
+  margin-bottom: 40px;
+}
+
+.ui-widget-header {
+  background: #00B151 !important;
+  border: 0 !important;
+}
+
+.ui-widget-content {
+  background: #00B151 !important;
+  border: 0 !important;
+}
+
+.ui-slider-horizontal {
+  height: 7px !important;
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+  top: -0.4em !important;
+  margin-left: -.2em !important;
+}
+
+.ui-slider .ui-slider-handle {
+  width: 8px !important;
+  border: 1px solid #2369AF;
+}
+
+.ui-state-hover,
+.ui-widget-content .ui-state-hover,
+.ui-widget-header .ui-state-hover,
+.ui-state-focus,
+.ui-widget-content .ui-state-focus,
+.ui-widget-header .ui-state-focus {
+  background: #00B151 !important;
+}
+
+.ui-state-default,
+.ui-widget-content .ui-state-default,
+.ui-widget-header .ui-state-default {
+  background: #00B151 !important;
+}
+
+.single-loan-slider input {
+  color: #aaaaaa;
+  font-size: 16px;
+  border: 0;
+  margin-top: 10px;
+}
+
+.loan-emi-box {
+  background: #00B151;
+  color: #fff;
+  padding: 30px;
+}
+
+.single-total h5 {
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 0;
+}
+
+.single-total h2 {
+  color: #ccc;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.single-total h2.emi-price {
+  font-size: 20px;
+}
+
+#tbl_la{
+  margin-bottom: 0;
+}
+

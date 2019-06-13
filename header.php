@@ -30,6 +30,9 @@
 	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
 	<!-- body -->
 	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+	<style> 
+	.kill{ text-justify: auto;
+	}</style>
 </head>
 
 <body>
@@ -97,7 +100,7 @@
 						<div class="banner-text container">
 							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Get Quick Loan In 2 Minutes</h4>
 							<p class="text-white mb-3">Whether you are a student or Market woman or Business person or Salary earner Get a loan from Tactika in 2 Minutes</p>
-							<a class="bt text-capitalize" href="about.html" role="button"> Apply Now 
+							<a class="bt text-capitalize" href="login.php" role="button"> Apply Now 
 								<i class="fas fa-angle-double-right"></i>
 							</a>
 						</div>
@@ -108,7 +111,7 @@
 						<div class="banner-text container">
 							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">The Fastest Way To Your Bsiness Loan</h4>
 							<p class="text-white mb-3">Donec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus at, semper varius orci. Nulla accumsan ac elit in congue.</p>
-							<a class="bt text-capitalize" href="about.html" role="button"> Apply Now
+							<a class="bt text-capitalize" href="login.php" role="button"> Apply Now
 								<i class="fas fa-angle-double-right"></i>
 							</a>
 						</div>
@@ -119,7 +122,7 @@
 						<div class="banner-text container">
 							<h4 class="movetxt text-left mb-3 agile-title text-capitalize">Your Financial Freedom In Your Reach</h4>
 							<p class="text-white mb-3">Donec consequat sapien ut leo cursus rhoncus. Nullam dui mi, vulputate ac metus at, semper varius orci. Nulla accumsan ac elit in congue.</p>
-							<a class="bt text-capitalize" href="about.html" role="button"> Process Now
+							<a class="bt text-capitalize" href="loan.php" role="button"> Process Now
 								<i class="fas fa-angle-double-right"></i>
 							</a>
 						</div>

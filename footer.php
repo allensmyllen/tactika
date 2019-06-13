@@ -170,6 +170,9 @@
 	<!-- //pop-up-box -->
 	<!-- Bootstrap Core JavaScript -->
 	<script src="js/bootstrap.js ">
+	    <script src="calc/assets/jquery/jquery.min.js"></script>
+    <script src="calc/assets/jquery/ui/jquery-ui.js"></script>
+    <script src="calc/js/emi-calculator.js"></script>
 	</script>
 	<!-- //Bootstrap Core JavaScript -->
 </body>

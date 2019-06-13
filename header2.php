@@ -28,12 +28,26 @@
 	<!-- titles -->
 	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
 	<!-- body -->
+	<!-- <link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+	<link href="css/fontawesome-all.min.css" rel="stylesheet">
+	<link href="calc/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
+	<script src='calc/assets/jquery/ui/jquery-ui.css'> </script>
+	<!-- //Custom Theme files -->
+	<!-- online fonts -->
+	<!-- titles -->
+	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
+	<!-- body -->
 	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
+	<link href="calc/css/custom.css" rel="stylesheet">
+	<link href="calc/assets/jquery/ui/jquery-ui.css" rel="stylesheet">
 </head>
 <style>
 	.in {
 	background-image: url('./images/in.jpg');
     height: 18vw;
+}
+.hide{
+	visibility:hidden;
 }
 
 </style>

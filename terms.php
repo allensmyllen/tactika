@@ -1,584 +1,80 @@
-<!--
-Author: W3layouts
-Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
--->
-<!DOCTYPE HTML>
-<html lang="zxx">
+<?php require_once("header2.php");?>
 
-<head>
-	<title>Home Loan a Banking Category Flat Bootstrap Responsive Website Template | Typography :: w3layouts</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta charset="utf-8">
-	<meta name="keywords" content="Home Loan Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-	<script>
-		addEventListener("load", function () {
-			setTimeout(hideURLbar, 0);
-		}, false);
+<div class="container">
+<div class="col-md-12">
+<div class = "row">
+<h3>Introduction </h3> <br>  <br>
+<p> This is the website of We Finance You (WFY) Financial Solutions Limited, the trademark owner of Tactika an innovative lending and investment services provider. WFY provides the information contained in this website and the WFYs comprising the website, and advertises and offers the services advertised on this website from time to time service is  to users YOU subject to the terms and conditions set out herein the  terms <br>
+Please read these terms, together with our Privacy Policy carefully, they will govern our relationship with you in relation to your use of the website and will constitute an ongoing binding agreement between WFY Financials and yourself. <br> <br>
+<h3>Acceptance of Terms</h3> <br>
+<p> 
+By accessing the website, you are deemed to have read, understood and agreed to the terms. WFY Financials may at any time modify any of the terms and such modification will supersede and replace any previous terms. The amended terms will be made available on the website. Each time you access the website, you agree to be bound by the terms, as they have changed. <br>
+If you do not accept these terms and conditions, please do not continue to use this website. Please note that the terms and conditions stated in this document refer to the use by you of this website and are not related to any commercial agreement concluded between you and WFY Financials. <br> <br>
 
-		function hideURLbar() {
-			window.scrollTo(0, 1);
-		}
-	</script>
+<h3> Content of the website</h3><br>
+While WFY Financials makes every effort to update the information provided on the website on a regular basis, WFY makes no representations or warranties, whether express, implied in law or residual, as to the accuracy, completeness or reliability of any information, data and/or content on the website. <br>
+The information, ideas and opinions expressed on this website are of a general nature and should not be regarded as financial or other advice. Before making any decision or taking any action based on, or in relation to information, ideas and opinions expressed on this website which might affect your personal finances or business, you should take appropriate advice from a suitably qualified person.<br> <br>
+<h3> Use of the website and indemnification </h3> <br>
+By accessing the website, you warrant and represent to WFY Financials that you are legally entitled to do so. If you subscribe for any of our products you warrant and represent that you are legally authorized to subscribe for such services. You further warrant you will not use the website, the products and/or the services or any information made available or sent to you by <br>
+us pursuant to your use of the website for any purpose that is unlawful or prohibited under Nigerian or international law or in contravention of the terms. You hereby indemnify WFY Financials against any loss, liability, damage or expense of whatever nature which WFY Financials or any third party may suffer which is caused by or attributable to, whether directly or indirectly,
+ a breach by you of any of the warranties in these terms. This website is available to you for your non-commercial use.We may modify, withdraw or deny access to this website at any time.<br> 
+ You may print pages for your personal use but no part of this website may be reproduced or transmitted for any other purpose.
 
-	<!-- Bootstrap Core CSS -->
-	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
-	<link href="css/style.css" rel='stylesheet' type='text/css' />
-	<!-- font-awesome icons -->
-	<link href="css/fontawesome-all.min.css" rel="stylesheet">
-	<!-- //Custom Theme files -->
-	<!-- online fonts -->
-	<!-- titles -->
-	<link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700,800,900" rel="stylesheet">
-	<!-- body -->
-	<link href="//fonts.googleapis.com/css?family=Poppins:400,500,600,700,800" rel="stylesheet">
-</head>
+This website is intended to provide general information regarding WFY Financials, our products and services, and other information which may be of interest to you. It is not intended to provide exhaustive treatment of any subject. 
+The information on this website including all research, opinions or other content is not intended to and does not constitute financial, accounting, tax, legal, investment, consulting or other professional advice or services. 
+Before making any decision or taking any action which might affect your personal finances or business you should take appropriate advice from a suitably qualified person <br> <br>
 
-<body>
-	
-	<!-- header -->
-	<header>
-	<div class="top">
-			<div class="container">
-				<div class="t-op row">
-					<div class="col-sm-6 top-middle">
-						<ul>
-							<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-							<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fab fa-google-plus-g"></i></a></li>
-							<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-						</ul>
-					</div>
-					<div class="col-sm-6 top-left">
-						<ul>
-							<li><i class="fas fa-phone"></i> +021 365 777</li>
-						</ul>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<nav class="navbar navbar-expand-lg navbar-light">
-				<h1>
-					<a class="navbar-brand text-capitalize" href="index.html">
-						Home Loan
-					</a>
-				</h1>
-				<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
-				    aria-expanded="false" aria-label="Toggle navigation">
-					<span class="navbar-toggler-icon"></span>
-				</button>
+<h3> Copyright and Intellectual Property<h3> <br>
+<p> Copyright and all intellectual property rights and all materials, texts, drawings and data made available on the website (collectively "the materials") are owned by WFY Financials, alternatively WFY Financials is the lawful user thereof. Any unauthorised copying, reproduction, retransmission, distribution, dissemination, sale, publication, broadcast or other circulation or exploitation of such material or any component thereof will be an infringement of such copyright and other intellectual property rights; save that you may use the materials or any component thereof for your own internal purposes and for purposes of considering and making use of the services offered by WFY Financials. The trademarks, names, logos and service marks (collectively "trademarks") displayed on this website are registered and unregistered trademarks of WFY Financials. Nothing contained on this website should be construed as granting any license or right to use any trademark without the prior written permission of WFY Financials. <br> <br>
 
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-					<ul class="navbar-nav text-center  ml-lg-auto">
-						<li class="nav-item mr-3">
-							<a class="nav-link" href="index.html">Home
-								<span class="sr-only">(current)</span>
-							</a>
-						</li>
-						<li class="nav-item  mr-3">
-							<a class="nav-link" href="about.html">About</a>
-						</li>
-						<li class="nav-item  mr-3">
-							<a class="nav-link" href="services.html">Services</a>
-						</li>
-						<li class="nav-item dropdown active mr-3">
-							<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true"
-							    aria-expanded="false">
-								Dropdown
-							</a>
-							<div class="dropdown-menu" aria-labelledby="navbarDropdown">
-								<a class="dropdown-item" href="typography.html">Typography</a>
-								<a class="dropdown-item" href="gallery.html">Gallery</a>
-							</div>
-						</li>
-						<li class="nav-item">
-							<a class="nav-link" href="contact.html">contact</a>
-						</li>
-					</ul>
-				</div>
-			</nav>
-		</div>
-	</header>
-	<!-- //header -->
-	<!-- banner -->
-	<section class="banner-1">
-	</section>
-	<!-- //banner -->
-		<!-- typography -->
-	<section class="typo py-5">
-		<div class="container py-md-4 mt-md-3">
-		<h2 class="heading-agileinfo">Typography<span>Speed Up The Loan Process</span></h2>
-			<span class="w3-line black"></span>
-			<div class="grid_3 grid_4 w3layouts mt-md-5 pt-5">
-				<h3 class="hdg">Headings</h3>
-				<div class="bs-example">
-					<table class="table">
-						<tbody>
-							<tr>
-								<td><h1 id="h1.-bootstrap-heading">h1. Bootstrap heading<a class="anchorjs-link" href="#h1.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h1></td>
-								<td class="type-info">Semibold 36px</td>
-							</tr>
-							<tr>
-								<td><h2 id="h2.-bootstrap-heading">h2. Bootstrap heading<a class="anchorjs-link" href="#h2.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h2></td>
-								<td class="type-info">Semibold 30px</td>
-							</tr>
-							<tr>
-								<td><h3 id="h3.-bootstrap-heading">h3. Bootstrap heading<a class="anchorjs-link" href="#h3.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h3></td>
-								<td class="type-info">Semibold 24px</td>
-							</tr>
-							<tr>
-								<td><h4 id="h4.-bootstrap-heading">h4. Bootstrap heading<a class="anchorjs-link" href="#h4.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h4></td>
-								<td class="type-info">Semibold 18px</td>
-							</tr>
-							<tr>
-								<td><h5 id="h5.-bootstrap-heading">h5. Bootstrap heading<a class="anchorjs-link" href="#h5.-bootstrap-heading"><span class="anchorjs-icon"></span></a></h5></td>
-								<td class="type-info">Semibold 14px</td>
-							</tr>
-							<tr>
-								<td><h6>h6. Bootstrap heading</h6></td>
-								<td class="type-info">Semibold 12px</td>
-							</tr>
-						</tbody>
-					</table>
-				</div>
-			</div>
-		
-			<div class="grid_3 grid_5 w3l">
-				<h3>Progress Bars</h3>
-				<div class="tab-content">
-					<div class="tab-pane active" id="domprogress">
-						<div class="progress">    
-							<div class="progress-bar progress-bar-primary" style="width: 20%"></div>
-						</div>
-						<p>Info with <code>progress-bar-info</code> class.</p>
-						<div class="progress">    
-							<div class="progress-bar progress-bar-info" style="width: 60%"></div>
-						</div>
-						<p>Success with <code>progress-bar-success</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-success" style="width: 30%"></div>
-						</div>
-						<p>Warning with <code>progress-bar-warning</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-warning" style="width: 70%"></div>
-						</div>
-						<p>Danger with <code>progress-bar-danger</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-danger" style="width: 50%"></div>
-						</div>
-						<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-inverse" style="width: 40%"></div>
-						</div>
-						<p>Inverse with <code>progress-bar-inverse</code> class.</p>
-						<div class="progress">
-							<div class="progress-bar progress-bar-success" style="width: 35%"><span class="sr-only">35% Complete (success)</span></div>
-							<div class="progress-bar progress-bar-warning" style="width: 20%"><span class="sr-only">20% Complete (warning)</span></div>
-							<div class="progress-bar progress-bar-danger" style="width: 10%"><span class="sr-only">10% Complete (danger)</span></div>
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="grid_3 grid_5 w3ls">
-				<h3>Alerts</h3>
-				<div class="alert alert-success" role="alert">
-				  <strong>Well done!</strong> You successfully read this important alert message.
-				</div>
-				<div class="alert alert-info" role="alert">
-				  <strong>Heads up!</strong> This alert needs your attention, but it's not super important.
-				</div>
-				<div class="alert alert-warning" role="alert">
-				  <strong>Warning!</strong> Better check yourself, you're not looking too good.
-				</div>
-				<div class="alert alert-danger" role="alert">
-				  <strong>Oh snap!</strong> Change a few things up and try submitting again.
-				</div>
-			</div>
-			<div class="grid_3 grid_5 agileinfo">
-				<h3>Breadcrumbs</h3>
-				<ol class="breadcrumb">
-					  <li class="breadcrumb-item active">Home</li>
-					</ol>
-					<ol class="breadcrumb">
-					  <li class="breadcrumb-item"><a href="#">Home</a></li>
-					  <li class="breadcrumb-item active">Library</li>
-					</ol>
-					<ol class="breadcrumb">
-					  <li class="breadcrumb-item"><a href="#">Home</a></li>
-					  <li class="breadcrumb-item"><a href="#">Library</a></li>
-					  <li class="breadcrumb-item active">Data</li>
-					</ol>
-			</div>
-			<div class="grid_3 grid_5 wthree">
-				<h3>Buttons</h3>
-				<!-- Provides extra visual weight and identifies the primary action in a set of buttons -->
-				<button type="button" class="btn btn-primary">Primary</button>
+<h3> Third Party links<h3> <br>
+<p> From time to time this website may also include links to other websites. These links are provided in order to enhance the interest of other featured content and are not intended to signify that WFY Financials endorses or otherwise has any responsibility for the content of the linked website.
+No endorsement or approval of any third party or their advice, opinions, information, products or services is expressed or implied by any information on this website.
+External links may be provided for your convenience, but they are beyond the control of WFY Financials and no representation is made as to their content. Use or reliance on any external links provided is at your own risk. When visiting external links you must refer to the external terms and conditions of use. No hypertext links shall be created from any website controlled
+by you or otherwise to this website without the express prior written permission of WFY Financials. <br> <br>
 
-				<!-- Secondary, outline button -->
-				<button type="button" class="btn btn-secondary">Secondary</button>
+<h3> Permission to link to our website<h3> <br> 
+<p> Nobody may establish a hyperlink, frame, meta tag or similar reference, whether electronically or otherwise (collectively referred to as linking), to this site or any subsidiary pages before receiving WFY Financials’ prior written approval, which may be withheld or granted subject to the conditions WFY Financials specifies from time to time. <br> <br>
 
-				<!-- Indicates a successful or positive action -->
-				<button type="button" class="btn btn-success">Success</button>
+<h3> Framing <h3> <br> 
+<p> No person, business or website may frame the site of WFY Financials or any of the pages on this site in any way whatsoever. <br> <br>
 
-				<!-- Contextual button for informational alert messages -->
-				<button type="button" class="btn btn-info">Info</button>
+<h3> Warranties, disclaimers and limitation of liability<h3> <br> 
+<p> Save as set out in the terms, WFY Financials makes no warranties, representations, statements or guarantees (whether express, implied in law or residual) regarding the website and the service/s and the website and service/s made available via the website are provided "as is". WFY Financials does not make any warranty or representation that information and service/s advertised on the website are appropriate for use in any jurisdiction. <br> <br>
+<p> To the fullest extent possible by law, WFY Financials expressly disclaims all (express or implied) warranties, including, without limitation, warranties and non-infringement, compatibility, security and accuracy in respect of this website. We do not warrant that the website or any software available for download via the website is free of viruses or destructive codes. <br> <br>
+<p> Neither WFY Financials or its directors shall be responsible for, and they hereby disclaim all liability for, any loss, liability, damage (whether direct, indirect or consequential) and/or expense of any nature whatsoever which may be suffered by you or any third party, as a result of or which may be attributable, directly or indirectly, to your access and use of the website and/or any information contained on or received via the website, your use of the service/s and/or your reliance on any information offered via the website and service/s.<br> <br>
+<p> Without limiting the generality of the aforegoing, neither WFY Financials nor its directors shall be liable for any loss of business, loss of data and/or loss of profits, any failure and/or unavailability of the website for any reason whatever and/or the failure/delay by any third party service provider to render any service/s which are necessary to ensure the availability of the website.<br> <br>
+<p> Information transmitted via the internet is susceptible to monitoring and interception. You will bear all risks of transmitting information in this manner. We will not be liable for any loss, harm or damage suffered by you as a result of transmitting information to us.<br> <br>
+<p> Any unsolicited confidential or proprietary information sent to us via the internet cannot be guaranteed to remain confidential. If you need to send such information to us and are concerned about the security of this information please contact us and we will advise you of the most appropriate method of transmission. <br> <br>
+<p> This website is made available for public viewing on the basis that WFY Financials excludes, to the extent lawfully permitted all liability whatsoever for any loss or damage howsoever arising out of the use of this website or reliance upon the content of this website. <br> <br>
+<p> Nothing on this website is intended to be nor should be construed as an offer to enter into a contractual relationship with you or anyone else, except for these terms which govern the relationship between us in relation to your use of the website. The advertising of our services via the website merely constitutes an invitation by WFY Financials for you to make an application for credit. WFY Financials reserves the right not to accept and/or comply with any application for any reason whatsoever on notice to you. Should WFY Financials accept your application for credit and or investment, the agreement is governed by the terms and conditions of the application and the agreement itself and not by these terms which specifically relate to the use of the website <br> <br>
 
-				<!-- Indicates caution should be taken with this action -->
-				<button type="button" class="btn btn-warning">Warning</button>
+<h3> Compliance with Legislation<h3> <br> 
+<p> WFY Financials will not tolerate anyone using the WFY Financials website (including the loan application process) in contravention of any law, whether in common law or statute, and reserves the right to take action against anyone doing so, including laying a criminal charge, where applicable.<br> <br>
+<h3> Privacy Policy<h3> <br> 
+<p> We respect your privacy and your personal information (even if you do not become or are no longer a customer of ours) and refer you to our privacy policy which governs the way in which we collect and use the personal information provided to us as part of the application process. You give WFY Financials permission to collect and use your personal information when you use the website.<br> <br>
+<p> To protect your privacy, our email responses do not include personal account information such as your bank account numbers or BVN. We will use your email address and the content of any email for correspondence purposes and to meet our legal and regulatory requirements regarding customer communications. We may use your email address to send you communications with information about service and product information that we believe may be of interest to you. If you do not wish to receive such unsolicited communications from us, please send us a message.<br> <br>
 
-				<!-- Indicates a dangerous or potentially negative action -->
-				<button type="button" class="btn btn-danger">Danger</button>
 
-				<!-- Deemphasize a button by making it look like a link while maintaining button behavior -->
-				<button type="button" class="btn btn-link">Link</button>
-			   
-			</div>			
-			<div class="grid_3 grid_5 agile">
-				<h3>Wells</h3>
-				<div class="well">
-					There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-				</div>
-				<div class="well">
-					It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here
-				</div>
-				<div class="well">
-						Lorem Ipsum is simply dummy text of the printing and typesetting Automated. Lorem Ipsum has been the Automated's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic
-				</div>
-			</div>
-			<h3 class="bars">Unordered List</h3>
-			<ul class="list-group w3-agile">
-			  <li class="list-group-item">Cras justo odio</li>
-			  <li class="list-group-item">Dapibus ac facilisis in</li>
-			  <li class="list-group-item">Morbi leo risus</li>
-			  <li class="list-group-item">Porta ac consectetur ac</li>
-			  <li class="list-group-item">Vestibulum at eros</li>
-			</ul>
-			<h3 class="bars">Ordered List</h3>
-			<ol>
-				<li class="list-group-item1">Cras justo odio</li>
-				<li class="list-group-item1">Dapibus ac facilisis in</li>
-				<li class="list-group-item1">Morbi leo risus</li>
-				<li class="list-group-item1">Porta ac consectetur ac</li>
-				<li class="list-group-item1">Vestibulum at eros</li>
-			</ol>
-		
-			<div class="page-header">
-				<h3 class="bars">Tables</h3>
-			</div>
-			<h2 class="typoh2">Default styles</h2>
-			<p>For basic stylinglight padding and only horizontal add the base class <code>.table</code> to any <code>&lt;table&gt;</code>.</p>
-			<div class="bs-docs-example">
-				<table class="table">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>Larry</td>
-							<td>the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<hr class="bs-docs-separator">
-			<p>Add any of the following classes to the <code>.table</code> base class.</p>
-			<p>Adds zebra-striping to any table row within the <code>&lt;tbody&gt;</code> via the <code>:nth-child</code> CSS selector (not available in IE7-8).</p>
-			<div class="bs-docs-example">
-				<table class="table table-striped">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td>1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td>Larry</td>
-							<td>the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<p>Add borders and rounded corners to the table.</p>
-			<div class="bs-docs-example">
-				<table class="table table-bordered">
-					<thead>
-						<tr>
-							<th>#</th>
-							<th>First Name</th>
-							<th>Last Name</th>
-							<th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-							<td rowspan="2">1</td>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@mdo</td>
-						</tr>
-						<tr>
-							<td>Mark</td>
-							<td>Otto</td>
-							<td>@getbootstrap</td>
-						</tr>
-						<tr>
-							<td>2</td>
-							<td>Jacob</td>
-							<td>Thornton</td>
-							<td>@fat</td>
-						</tr>
-						<tr>
-							<td>3</td>
-							<td colspan="2">Larry the Bird</td>
-							<td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-			<p>Enable a hover state on table rows within a <code>&lt;tbody&gt;</code>.</p>
-			<div class="bs-docs-example">
-				<table class="table table-hover">
-					<thead>
-						<tr>
-						  <th>#</th>
-						  <th>First Name</th>
-						  <th>Last Name</th>
-						  <th>Username</th>
-						</tr>
-					</thead>
-					<tbody>
-						<tr>
-						  <td>1</td>
-						  <td>Mark</td>
-						  <td>Otto</td>
-						  <td>@mdo</td>
-						</tr>
-						<tr>
-						  <td>2</td>
-						  <td>Jacob</td>
-						  <td>Thornton</td>
-						  <td>@fat</td>
-						</tr>
-						<tr>
-						  <td>3</td>
-						  <td colspan="2">Larry the Bird</td>
-						  <td>@twitter</td>
-						</tr>
-					</tbody>
-				</table>
-			</div>
-		</div>
-	</section>
-	<!-- //typography -->
 
-<!--footer-->
-	<footer>
-		<div class="container py-md-4 mt-md-3">
-			<div class="row footer-top-w3layouts-agile py-5">
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>About Us</h3>
-					</div>
-					<div class="footer-text">
-						<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed, convallis at tellus..</p>
 
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Contact Us</h3>
-					</div>
-					<div class="footer-office-hour">
-						<ul>
-							<li class="hd">Address :</li>
-							<li>No.27 - 5549436 street lorem, Newyork City, USA</li>
 
-						</ul>
-						<ul>
-							<li class="hd">Phone:+ 1 (234) 567 8901</li>
-							<li class="hd">Email:
-								<a href="mailto:info@example.com">info@example.com</a>
-							</li>
-							<li class="hd">Fax: 1(234) 567 8901</li>
-						</ul>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Recent Posts</h3>
-					</div>
-					<div class="footer-list">
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g1.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g2.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g3.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g4.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g5.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g6.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g7.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g9.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="flickr-grid">
-							<a href="#" data-toggle="modal" data-target="#myModal">
-								<img src="images/g8.jpg" class="img-fluid" alt=" ">
-							</a>
-						</div>
-						<div class="clearfix"></div>
-					</div>
-				</div>
-				<div class="col-lg-3 col-md-6 col-sm-6 footer-grid">
-					<div class="footer-title">
-						<h3>Subscribe</h3>
-					</div>
-					<p>Vivamus magna justo, lacinia eget consectetur sed.</p>
-					<form action="#" method="post" class="newsletter">
-						<input class="email" type="email" placeholder="Your email..." required="">
-						<button class="btn1">
-							<i class="far fa-envelope"></i>
-						</button>
-					</form>
-					<div class="clearfix"></div>
-				</div>
-			</div>
-		</div>
-	</footer>
-	<!---->
-	<div class="copyright py-3">
-		<div class="container">
-			<div class="copyrighttop">
-				<ul>
-					<li>
-						<h4>Follow us on:</h4>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-facebook-f"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-twitter"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-google-plus-g"></i>
-						</a>
-					</li>
-					<li>
-						<a class="facebook" href="#">
-							<i class="fab fa-pinterest-p"></i>
-						</a>
-					</li>
-				</ul>
-			</div>
-			<div class="copyrightbottom">
-				<p>© 2018 Home Loan. All Rights Reserved | Design by
-					<a href="http://w3layouts.com/">W3layouts</a>
-				</p>
-			</div>
-			<div class="clearfix"></div>
-		</div>
-	</div>
-	<!-- Modal -->
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
-  <div class="modal-dialog modal-dialog-centered" role="document">
-    <div class="modal-content">
-      <div class="modal-header">
-        <h4 class="modal-title">Home Loan</h4>
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
-      <div class="modal-body">
-		 <div class="agileits-w3layouts-info">
-			<img src="images/g6.jpg" class="img-fluid" alt="" />
-			<p>Duis venenatis, turpis eu bibendum porttitor, sapien quam ultricies tellus, ac rhoncus risus odio eget nunc. Pellentesque ac fermentum diam. Integer eu facilisis nunc, a iaculis felis. Pellentesque pellentesque tempor enim, in dapibus turpis porttitor quis. </p>
-		</div>
-	</div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-        <button type="button" class="btn btn-primary">Save changes</button>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- //Modal -->
-<!-- js-->
-	<script src="js/jquery-2.2.3.min.js"></script>
-<!-- js-->
-	<!-- Bootstrap Core JavaScript -->
-	<script src="js/bootstrap.js ">
-	</script>
-	<!-- //Bootstrap Core JavaScript -->
-</body>
-</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+
+ </p></div></div></div>
+<?php require_once("footer.php");?>
